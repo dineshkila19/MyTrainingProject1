@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.demoproject.utility.ListenerClass"/>
+  </listeners>
+  <test thread-count="5" name="Test.All(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="com.demoproject.testcases.IndexPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="loadConfig"/>
+          <include name="verifyMyDemoLogo"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.demoproject.testcases.IndexPageTest -->
+    </classes>
+  </test> <!-- Test.All(failed) -->
+</suite> <!-- Failed suite [Suite] -->

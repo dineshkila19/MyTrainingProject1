@@ -1,0 +1,269 @@
+2023-08/15 13:46:33 INFO  Log:12 - ===========getMyTitleTEST START===========
+2023-08/15 13:46:34 INFO  Log:18 - user is going to getting title
+2023-08/15 13:46:34 INFO  Log:18 - getMyTitle testcase is passed
+2023-08/15 13:46:34 INFO  Log:15 - ==========getMyTitleEND TEST===========
+2023-08/15 13:46:44 INFO  Log:12 - ===========verifyMyDemoLogoTEST START===========
+2023-08/15 13:46:44 INFO  Log:18 - user ids going to validate demo logo
+2023-08/15 13:46:45 INFO  Log:18 - verifyMyDemoLogo testcase is passed
+2023-08/15 13:46:45 INFO  Log:15 - ==========verifyMyDemoLogoEND TEST===========
+2023-08/15 13:49:17 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 13:49:18 INFO  Log:18 - user is clicking the login
+2023-08/15 13:49:22 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 13:49:22 INFO  Log:18 - loginTest test case is passed
+2023-08/15 13:49:22 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 13:52:09 INFO  Log:12 - ===========getCurrentURLTEST START===========
+2023-08/15 13:52:12 INFO  Log:18 - user getting the current url is successfully
+2023-08/15 13:52:12 INFO  Log:15 - ==========getCurrentURLEND TEST===========
+2023-08/15 13:52:17 INFO  Log:12 - ===========verifySearchBoxTEST START===========
+2023-08/15 13:52:19 INFO  Log:18 - user is successfully verifys the searchbox
+2023-08/15 13:52:19 INFO  Log:15 - ==========verifySearchBoxEND TEST===========
+2023-08/15 13:54:44 INFO  Log:12 - ===========searchProductPageTestTEST START===========
+2023-08/15 13:54:50 INFO  Log:18 - user is selecting the imac
+2023-08/15 13:54:55 INFO  Log:18 - user successfully clicking on the imac
+2023-08/15 13:54:55 INFO  Log:15 - ==========searchProductPageTestEND TEST===========
+2023-08/15 13:57:27 INFO  Log:12 - ===========AddToCartPageTestTEST START===========
+2023-08/15 13:57:42 INFO  Log:18 - entering the quantity
+2023-08/15 13:57:49 INFO  Log:18 - user successfully click on the shopping cart 
+2023-08/15 13:57:49 INFO  Log:15 - ==========AddToCartPageTestEND TEST===========
+2023-08/15 15:48:12 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 15:48:14 INFO  Log:18 - user is clicking the login
+2023-08/15 15:48:18 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 15:48:18 INFO  Log:18 - loginTest test case is passed
+2023-08/15 15:48:18 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 15:48:25 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 15:48:26 INFO  Log:18 - user is clicking the login
+2023-08/15 15:48:30 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 15:48:30 INFO  Log:18 - loginTest test case is passed
+2023-08/15 15:48:30 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 15:48:36 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 15:48:38 INFO  Log:18 - user is clicking the login
+2023-08/15 15:48:42 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 15:48:42 INFO  Log:18 - loginTest test case is passed
+2023-08/15 15:48:42 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 15:48:47 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 15:48:49 INFO  Log:18 - user is clicking the login
+2023-08/15 15:48:53 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 15:48:53 INFO  Log:18 - loginTest test case is passed
+2023-08/15 15:48:53 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 15:53:05 INFO  Log:12 - ===========getMyTitleTEST START===========
+2023-08/15 15:53:05 INFO  Log:18 - user is going to getting title
+2023-08/15 15:53:06 INFO  Log:18 - getMyTitle testcase is passed
+2023-08/15 15:53:06 INFO  Log:15 - ==========getMyTitleEND TEST===========
+2023-08/15 15:53:14 INFO  Log:12 - ===========verifyMyDemoLogoTEST START===========
+2023-08/15 15:53:14 INFO  Log:18 - user ids going to validate demo logo
+2023-08/15 15:53:14 INFO  Log:18 - verifyMyDemoLogo testcase is passed
+2023-08/15 15:53:14 INFO  Log:15 - ==========verifyMyDemoLogoEND TEST===========
+2023-08/15 15:53:21 INFO  Log:12 - ===========searchProductPageTestTEST START===========
+2023-08/15 15:53:29 INFO  Log:18 - user is selecting the imac
+2023-08/15 15:53:34 INFO  Log:18 - user successfully clicking on the imac
+2023-08/15 15:53:34 INFO  Log:15 - ==========searchProductPageTestEND TEST===========
+2023-08/15 15:53:41 INFO  Log:12 - ===========getCurrentURLTEST START===========
+2023-08/15 15:53:45 INFO  Log:18 - user getting the current url is successfully
+2023-08/15 15:53:45 INFO  Log:15 - ==========getCurrentURLEND TEST===========
+2023-08/15 15:53:51 INFO  Log:12 - ===========verifySearchBoxTEST START===========
+2023-08/15 15:53:55 INFO  Log:18 - user is successfully verifys the searchbox
+2023-08/15 15:53:55 INFO  Log:15 - ==========verifySearchBoxEND TEST===========
+2023-08/15 15:54:02 INFO  Log:12 - ===========AddToCartPageTestTEST START===========
+2023-08/15 15:54:16 INFO  Log:18 - entering the quantity
+2023-08/15 15:54:23 INFO  Log:18 - user successfully click on the shopping cart 
+2023-08/15 15:54:23 INFO  Log:15 - ==========AddToCartPageTestEND TEST===========
+2023-08/15 15:54:32 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 15:54:34 INFO  Log:18 - user is clicking the login
+2023-08/15 15:54:38 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 15:54:38 INFO  Log:18 - loginTest test case is passed
+2023-08/15 15:54:38 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 15:54:44 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 15:54:46 INFO  Log:18 - user is clicking the login
+2023-08/15 15:54:50 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 15:54:50 INFO  Log:18 - loginTest test case is passed
+2023-08/15 15:54:50 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 15:54:56 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 15:54:58 INFO  Log:18 - user is clicking the login
+2023-08/15 15:55:02 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 15:55:02 INFO  Log:18 - loginTest test case is passed
+2023-08/15 15:55:02 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 15:55:09 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 15:55:10 INFO  Log:18 - user is clicking the login
+2023-08/15 15:55:14 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 15:55:14 INFO  Log:18 - loginTest test case is passed
+2023-08/15 15:55:14 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 16:09:11 INFO  Log:12 - ===========AddToCartPageTestTEST START===========
+2023-08/15 16:09:27 INFO  Log:18 - entering the quantity
+2023-08/15 16:09:34 INFO  Log:18 - user successfully click on the shopping cart 
+2023-08/15 16:09:34 INFO  Log:15 - ==========AddToCartPageTestEND TEST===========
+2023-08/15 16:10:08 INFO  Log:12 - ===========searchProductPageTestTEST START===========
+2023-08/15 16:10:16 INFO  Log:18 - user is selecting the imac
+2023-08/15 16:10:20 INFO  Log:18 - user successfully clicking on the imac
+2023-08/15 16:10:20 INFO  Log:15 - ==========searchProductPageTestEND TEST===========
+2023-08/15 16:10:27 INFO  Log:12 - ===========AddToCartPageTestTEST START===========
+2023-08/15 16:10:42 INFO  Log:18 - entering the quantity
+2023-08/15 16:10:49 INFO  Log:18 - user successfully click on the shopping cart 
+2023-08/15 16:10:49 INFO  Log:15 - ==========AddToCartPageTestEND TEST===========
+2023-08/15 16:10:57 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 16:11:00 INFO  Log:18 - user is clicking the login
+2023-08/15 16:11:04 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 16:11:04 INFO  Log:18 - loginTest test case is passed
+2023-08/15 16:11:04 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 16:11:15 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 16:11:18 INFO  Log:18 - user is clicking the login
+2023-08/15 16:11:22 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 16:11:22 INFO  Log:18 - loginTest test case is passed
+2023-08/15 16:11:22 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 16:11:29 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 16:11:31 INFO  Log:18 - user is clicking the login
+2023-08/15 16:11:35 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 16:11:35 INFO  Log:18 - loginTest test case is passed
+2023-08/15 16:11:35 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 16:11:41 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 16:11:43 INFO  Log:18 - user is clicking the login
+2023-08/15 16:11:47 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 16:11:47 INFO  Log:18 - loginTest test case is passed
+2023-08/15 16:11:47 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 16:13:08 INFO  Log:12 - ===========getMyTitleTEST START===========
+2023-08/15 16:13:08 INFO  Log:18 - user is going to getting title
+2023-08/15 16:13:09 INFO  Log:18 - getMyTitle testcase is passed
+2023-08/15 16:13:09 INFO  Log:15 - ==========getMyTitleEND TEST===========
+2023-08/15 16:13:17 INFO  Log:12 - ===========verifyMyDemoLogoTEST START===========
+2023-08/15 16:13:17 INFO  Log:18 - user ids going to validate demo logo
+2023-08/15 16:13:18 INFO  Log:18 - verifyMyDemoLogo testcase is passed
+2023-08/15 16:13:18 INFO  Log:15 - ==========verifyMyDemoLogoEND TEST===========
+2023-08/15 16:13:25 INFO  Log:12 - ===========getCurrentURLTEST START===========
+2023-08/15 16:13:28 INFO  Log:18 - user getting the current url is successfully
+2023-08/15 16:13:28 INFO  Log:15 - ==========getCurrentURLEND TEST===========
+2023-08/15 16:13:35 INFO  Log:12 - ===========verifySearchBoxTEST START===========
+2023-08/15 16:13:38 INFO  Log:18 - user is successfully verifys the searchbox
+2023-08/15 16:13:38 INFO  Log:15 - ==========verifySearchBoxEND TEST===========
+2023-08/15 16:13:47 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 16:13:49 INFO  Log:18 - user is clicking the login
+2023-08/15 16:13:53 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 16:13:53 INFO  Log:18 - loginTest test case is passed
+2023-08/15 16:13:53 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 16:14:01 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 16:14:03 INFO  Log:18 - user is clicking the login
+2023-08/15 16:14:07 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 16:14:07 INFO  Log:18 - loginTest test case is passed
+2023-08/15 16:14:07 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 16:14:15 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 16:14:17 INFO  Log:18 - user is clicking the login
+2023-08/15 16:14:21 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 16:14:21 INFO  Log:18 - loginTest test case is passed
+2023-08/15 16:14:21 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 16:14:29 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/15 16:14:31 INFO  Log:18 - user is clicking the login
+2023-08/15 16:14:35 INFO  Log:18 - user is successfully entered login credentials
+2023-08/15 16:14:35 INFO  Log:18 - loginTest test case is passed
+2023-08/15 16:14:35 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/15 16:21:48 INFO  Log:12 - ===========getMyTitleTEST START===========
+2023-08/15 16:21:48 INFO  Log:18 - user is going to getting title
+2023-08/15 16:21:49 INFO  Log:18 - getMyTitle testcase is passed
+2023-08/15 16:21:49 INFO  Log:15 - ==========getMyTitleEND TEST===========
+2023-08/15 16:21:57 INFO  Log:12 - ===========verifyMyDemoLogoTEST START===========
+2023-08/15 16:21:57 INFO  Log:18 - user ids going to validate demo logo
+2023-08/15 16:21:58 INFO  Log:18 - verifyMyDemoLogo testcase is passed
+2023-08/15 16:21:58 INFO  Log:15 - ==========verifyMyDemoLogoEND TEST===========
+2023-08/15 16:22:30 INFO  Log:12 - ===========getMyTitleTEST START===========
+2023-08/15 16:22:30 INFO  Log:18 - user is going to getting title
+2023-08/15 16:22:30 INFO  Log:18 - getMyTitle testcase is passed
+2023-08/15 16:22:30 INFO  Log:15 - ==========getMyTitleEND TEST===========
+2023-08/15 16:22:52 INFO  Log:12 - ===========verifyMyDemoLogoTEST START===========
+2023-08/15 16:22:52 INFO  Log:18 - user ids going to validate demo logo
+2023-08/15 16:22:52 INFO  Log:18 - verifyMyDemoLogo testcase is passed
+2023-08/15 16:22:52 INFO  Log:15 - ==========verifyMyDemoLogoEND TEST===========
+2023-08/15 16:26:47 INFO  Log:12 - ===========getMyTitleTEST START===========
+2023-08/15 16:26:48 INFO  Log:18 - user is going to getting title
+2023-08/15 16:26:49 INFO  Log:18 - getMyTitle testcase is passed
+2023-08/15 16:26:49 INFO  Log:15 - ==========getMyTitleEND TEST===========
+2023-08/15 16:27:01 INFO  Log:12 - ===========getMyTitleTEST START===========
+2023-08/15 16:27:01 INFO  Log:18 - user is going to getting title
+2023-08/15 16:27:01 INFO  Log:18 - getMyTitle testcase is passed
+2023-08/15 16:27:01 INFO  Log:15 - ==========getMyTitleEND TEST===========
+2023-08/15 16:27:09 INFO  Log:12 - ===========verifyMyDemoLogoTEST START===========
+2023-08/15 16:27:09 INFO  Log:18 - user ids going to validate demo logo
+2023-08/15 16:27:09 INFO  Log:18 - verifyMyDemoLogo testcase is passed
+2023-08/15 16:27:09 INFO  Log:15 - ==========verifyMyDemoLogoEND TEST===========
+2023-08/15 16:27:17 INFO  Log:12 - ===========verifyMyDemoLogoTEST START===========
+2023-08/15 16:27:17 INFO  Log:18 - user ids going to validate demo logo
+2023-08/15 16:27:17 INFO  Log:18 - verifyMyDemoLogo testcase is passed
+2023-08/15 16:27:17 INFO  Log:15 - ==========verifyMyDemoLogoEND TEST===========
+2023-08/16 11:17:51 INFO  Log:12 - ===========getMyTitleTEST START===========
+2023-08/16 11:17:52 INFO  Log:18 - user is going to getting title
+2023-08/16 11:17:52 INFO  Log:18 - getMyTitle testcase is passed
+2023-08/16 11:17:52 INFO  Log:15 - ==========getMyTitleEND TEST===========
+2023-08/16 11:18:00 INFO  Log:12 - ===========verifyMyDemoLogoTEST START===========
+2023-08/16 11:18:00 INFO  Log:18 - user ids going to validate demo logo
+2023-08/16 11:18:01 INFO  Log:18 - verifyMyDemoLogo testcase is passed
+2023-08/16 11:18:01 INFO  Log:15 - ==========verifyMyDemoLogoEND TEST===========
+2023-08/16 11:18:08 INFO  Log:12 - ===========searchProductPageTestTEST START===========
+2023-08/16 11:18:14 INFO  Log:18 - user is selecting the imac
+2023-08/16 11:18:19 INFO  Log:18 - user successfully clicking on the imac
+2023-08/16 11:18:19 INFO  Log:15 - ==========searchProductPageTestEND TEST===========
+2023-08/16 11:18:28 INFO  Log:12 - ===========getCurrentURLTEST START===========
+2023-08/16 11:18:30 INFO  Log:18 - user getting the current url is successfully
+2023-08/16 11:18:30 INFO  Log:15 - ==========getCurrentURLEND TEST===========
+2023-08/16 11:18:37 INFO  Log:12 - ===========verifySearchBoxTEST START===========
+2023-08/16 11:18:39 INFO  Log:18 - user is successfully verifys the searchbox
+2023-08/16 11:18:39 INFO  Log:15 - ==========verifySearchBoxEND TEST===========
+2023-08/16 11:18:45 INFO  Log:12 - ===========AddToCartPageTestTEST START===========
+2023-08/16 11:18:59 INFO  Log:18 - entering the quantity
+2023-08/16 11:19:06 INFO  Log:18 - user successfully click on the shopping cart 
+2023-08/16 11:19:06 INFO  Log:15 - ==========AddToCartPageTestEND TEST===========
+2023-08/16 11:19:21 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/16 11:19:22 INFO  Log:18 - user is clicking the login
+2023-08/16 11:19:26 INFO  Log:18 - user is successfully entered login credentials
+2023-08/16 11:19:26 INFO  Log:18 - loginTest test case is passed
+2023-08/16 11:19:26 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/16 11:19:33 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/16 11:19:35 INFO  Log:18 - user is clicking the login
+2023-08/16 11:19:38 INFO  Log:18 - user is successfully entered login credentials
+2023-08/16 11:19:38 INFO  Log:18 - loginTest test case is passed
+2023-08/16 11:19:38 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/16 11:19:48 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/16 11:19:49 INFO  Log:18 - user is clicking the login
+2023-08/16 11:19:53 INFO  Log:18 - user is successfully entered login credentials
+2023-08/16 11:19:53 INFO  Log:18 - loginTest test case is passed
+2023-08/16 11:19:53 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/16 11:20:01 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/16 11:20:02 INFO  Log:18 - user is clicking the login
+2023-08/16 11:20:06 INFO  Log:18 - user is successfully entered login credentials
+2023-08/16 11:20:06 INFO  Log:18 - loginTest test case is passed
+2023-08/16 11:20:06 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/16 11:23:40 INFO  Log:12 - ===========getMyTitleTEST START===========
+2023-08/16 11:23:40 INFO  Log:18 - user is going to getting title
+2023-08/16 11:23:40 INFO  Log:18 - getMyTitle testcase is passed
+2023-08/16 11:23:40 INFO  Log:15 - ==========getMyTitleEND TEST===========
+2023-08/16 11:23:48 INFO  Log:12 - ===========verifyMyDemoLogoTEST START===========
+2023-08/16 11:23:48 INFO  Log:18 - user ids going to validate demo logo
+2023-08/16 11:23:55 INFO  Log:12 - ===========searchProductPageTestTEST START===========
+2023-08/16 11:24:02 INFO  Log:18 - user is selecting the imac
+2023-08/16 11:24:07 INFO  Log:18 - user successfully clicking on the imac
+2023-08/16 11:24:07 INFO  Log:15 - ==========searchProductPageTestEND TEST===========
+2023-08/16 11:24:13 INFO  Log:12 - ===========getCurrentURLTEST START===========
+2023-08/16 11:24:16 INFO  Log:18 - user getting the current url is successfully
+2023-08/16 11:24:16 INFO  Log:15 - ==========getCurrentURLEND TEST===========
+2023-08/16 11:24:23 INFO  Log:12 - ===========verifySearchBoxTEST START===========
+2023-08/16 11:24:25 INFO  Log:18 - user is successfully verifys the searchbox
+2023-08/16 11:24:25 INFO  Log:15 - ==========verifySearchBoxEND TEST===========
+2023-08/16 11:24:30 INFO  Log:12 - ===========AddToCartPageTestTEST START===========
+2023-08/16 11:24:45 INFO  Log:18 - entering the quantity
+2023-08/16 11:24:52 INFO  Log:18 - user successfully click on the shopping cart 
+2023-08/16 11:24:52 INFO  Log:15 - ==========AddToCartPageTestEND TEST===========
+2023-08/16 11:24:59 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/16 11:25:00 INFO  Log:18 - user is clicking the login
+2023-08/16 11:25:04 INFO  Log:18 - user is successfully entered login credentials
+2023-08/16 11:25:04 INFO  Log:18 - loginTest test case is passed
+2023-08/16 11:25:04 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/16 11:25:09 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/16 11:25:11 INFO  Log:18 - user is clicking the login
+2023-08/16 11:25:15 INFO  Log:18 - user is successfully entered login credentials
+2023-08/16 11:25:15 INFO  Log:18 - loginTest test case is passed
+2023-08/16 11:25:15 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/16 11:25:23 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/16 11:25:24 INFO  Log:18 - user is clicking the login
+2023-08/16 11:25:28 INFO  Log:18 - user is successfully entered login credentials
+2023-08/16 11:25:28 INFO  Log:18 - loginTest test case is passed
+2023-08/16 11:25:28 INFO  Log:15 - ==========loginTestEND TEST===========
+2023-08/16 11:25:37 INFO  Log:12 - ===========loginTestTEST START===========
+2023-08/16 11:25:38 INFO  Log:18 - user is clicking the login
+2023-08/16 11:25:42 INFO  Log:18 - user is successfully entered login credentials
+2023-08/16 11:25:42 INFO  Log:18 - loginTest test case is passed
+2023-08/16 11:25:42 INFO  Log:15 - ==========loginTestEND TEST===========
